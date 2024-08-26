@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Vinícius.
-#### 💻 I code for a living, mostly Python related, and currently working as a Data Science 
+#### 💻 I code for a living, mostly Python related, and I am currently working as a Data Scientist
 #### 👀 |-> usually try to create new stuff from scratch
 #### 🌱 |-> code in C++, Python, Ruby and a little bit of JAVA, HTML, CSS and Javascript
 #### 🥽 |-> sometimes design schematic and PCB for small embedded projects, but only as a hobby. <br> <br> <br>
